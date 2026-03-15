@@ -5,7 +5,7 @@ This repository contains the supplementary materials, detailed datasets, and hyp
 
 ## Repository Contents
 - **Supporting_Information.pdf**: Contains the complete mathematical formulations, objective function derivations, and detailed techno-economic parameters.
-- **/data**: Includes the historical 8760-hour meteorological and load data used in the case study.
+- **data**: Includes the historical 8760-hour meteorological and load data used in the case study.
 
 ## Abstract
 	Life cycle assessment integration in microgrid planning is essential for comprehensively quantifying carbon emissions throughout the entire lifecycle, from equipment manufacturing to operational phases. However, the resulting bilevel optimization problem, which couples planning-level decisions with operational dispatch across an extended temporal horizon, presents considerable computational challenges. Traditional approaches typically employ surrogate models to encapsulate the lower-level operational dispatch subproblem, thereby simplifying the overall optimization. Nevertheless, these methods often fail to simultaneously capture continuous, high-magnitude economic costs alongside sparse, zero-inflated reliability penalties. 
