@@ -1,4 +1,4 @@
-# PDA-SAO_2026_Supplementary
+# PDA-SAO-2026-Supplementary
 Supplementary Material for ``Physics-Disentangled Adaptive Surrogate-Assisted Optimization for Lifecycle Carbon-Integrated Microgrid Planning''
 
 This repository contains the supplementary materials, detailed datasets, and hyperparameter configurations for our paper submitted to *IEEE Transactions on Smart Grid*.
